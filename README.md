@@ -33,17 +33,23 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
 ### <a name="ec"></a>[Evaluation Campaigns]()
 2024-Revisiting the Solution of Meta KDD Cup 2024 CRAG.pdf
+
 2025 LiveRAG Challenge - Home.pdf
+
 2024-Winning Solution For Meta KDD Cup 24.pdf
+
 TREC 2024 RAG Track
 
 ### <a name="op"></a>[Open-source Projects]()
 2024-BERGEN A Benchmarking Library for Retrieval-Augmented Generation.pdf
+
 2025.2-FlashRAG A Modular Toolkit for Efficient Retrieval-Augmented Generatio Research.pdf
+
 2025.4-LightRAG Simple and Fast Retrieval-Augmented Generation.pdf
 
 ### <a name="wt"></a>[Workshops & Tutorials]()
 R3AG: First Workshop on Refined and Reliable Retrieval Augmented Generation
+
 URL: https://r3ag-sigir-ap.github.io/
 
 BREV-RAG (Beyond Relevance-based EValuation of RAG systems) workshop@SIGIR-AP 2025
