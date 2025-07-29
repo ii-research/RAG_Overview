@@ -9,7 +9,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - <a href="#op">Open-source Projects</a>
 - <a href="#wt">Workshops & Tutorials</a>
 
-### <a name="sp"></a>[Survey Papers]()
+### <a name="sp"></a>[Survey Papers]
 
 **pattern: year-publication place-title-link**
 
