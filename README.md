@@ -13,7 +13,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
 **pattern: year-publication place-title-link**
 
-2024-Retrieval-Enhanced Machine Learning Synthesis and Opportunities.pdf
+⭐ 2024-Retrieval-Enhanced Machine Learning Synthesis and Opportunities.pdf
 
 2024-A Survey on Hallucination in Large Language Models Principles, Taxonomy, Challenges, and Open Questions.pdf
 
@@ -49,10 +49,10 @@ URL: https://r3ag-sigir-ap.github.io/
 BREV-RAG (Beyond Relevance-based EValuation of RAG systems) workshop@SIGIR-AP 2025
 http://sakailab.com/brev-rag/
 
-ACL 2023 Tutorial: Retrieval-based Language Models and Applications
+⭐ ACL 2023 Tutorial: Retrieval-based Language Models and Applications
 https://acl2023-retrieval-lm.github.io
 
-Retrieval-Enhanced Machine Learning (REML)
+⭐ Retrieval-Enhanced Machine Learning (REML)
 https://retrieval-enhanced-ml.github.io
 
 
