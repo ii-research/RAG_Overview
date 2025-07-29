@@ -9,7 +9,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - <a href="#op">Open-source Projects</a>
 - <a href="#wt">Workshops & Tutorials</a>
 
-### <a name="sp"></a>Survey Papers
+### <a name="sp"></a>[Survey Papers]()
 
 **pattern: year-publication place-title-link**
 
@@ -31,7 +31,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
 ==2025_Synergizing RAG and Reasoning A Systematic Review.pdf
 
-### <a name="ec"></a>Evaluation Campaigns
+### <a name="ec"></a>[Evaluation Campaigns]()
 2024-Revisiting the Solution of Meta KDD Cup 2024 CRAG.pdf
 2025 LiveRAG Challenge - Home.pdf
 2024-Winning Solution For Meta KDD Cup 24.pdf
