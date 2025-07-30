@@ -65,18 +65,15 @@ A New Perspective on Information Retrieval Research
 - TREC 2024 RAG Track (TBA)
 
 ### <a name="op"></a>[Open-source Projects]()
-- BERGEN: A Benchmarking Library for Retrieval-Augmented Generation 
-  - Meta: EMNLP (findings) 2024, [Paper](https://arxiv.org/pdf/2407.01102)
-  - Highlight: TBA
+- FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research ([paper](https://arxiv.org/pdf/2405.13576), [site](https://github.com/RUC-NLPIR/FlashRAG))
+  - Highlight: FlashRAG is a Python toolkit for the reproduction and development of Retrieval Augmented Generation (RAG) research. Our toolkit includes about 36 pre-processed benchmark RAG datasets and around 17 state-of-the-art RAG algorithms.
 
-- FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research 
-  - Meta: WWW 2025, [Paper](https://arxiv.org/pdf/2405.13576)
-  - Highlight: TBA
+- LightRAG: Simple and Fast Retrieval-Augmented Generation ([paper](https://arxiv.org/pdf/2410.05779), [site](https://github.com/HKUDS/LightRAG))
+  - Highlight: Focusing on the effective combination of LLM-generated knowledge graphs and graph machine learning, other closely related work includes [GraphRAG](https://github.com/microsoft/graphrag?tab=readme-ov-file) by Microsoft Research.
 
-- LIGHTRAG: SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION 
-  - Meta: Arxiv 2025, [Paper](https://arxiv.org/pdf/2410.05779)
-  - Highlight: TBA
- 
+ - BERGEN: A Benchmarking Library for Retrieval-Augmented Generation ([paper](https://aclanthology.org/2024.findings-emnlp.449.pdf), [site](https://github.com/naver/bergen))
+  - Highlight: A library designed to benchmark RAG systems with a focus on question-answering (QA). It addresses the challenge of inconsistent benchmarking in comparing approaches and understanding the impact of each component in a RAG pipeline.
+    
 ### <a name="wt"></a>[Workshops & Tutorials]()
 - ⭐ [Retrieval-Enhanced Machine Learning](https://retrieval-enhanced-ml.github.io)
   - Highlight: This is an ongoing, multi-year effort that now includes tutorials at **SIGIR 2025** and **SIGIR-AP 2024**, as well as a workshop held in conjunction with **SIGIR 2023**. Meanwhile, the survey manuscript titled “Retrieval-Enhanced Machine Learning: Synthesis and Opportunities” (detailed in <a href="#sp">Survey Papers</a>) and the accompanying slides (e.g., [REML@SIGIR-2025 slides](https://retrieval-enhanced-ml.github.io/sigir-2025.html)) are publicly available.
