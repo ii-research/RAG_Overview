@@ -19,8 +19,8 @@ Given the rapid evolution of this field, we will continue to update the reposito
 | * | 2024 | KDD | A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models | [Paper](https://arxiv.org/abs/2405.06211) |
 
 
-- Title: A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models 
-  - Meta: 2024, KDD, [Paper link](https://arxiv.org/abs/2405.06211)
+- A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models 
+  - Meta: 2024, KDD, [Paper](https://arxiv.org/abs/2405.06211)
   - Highlight: TBA
 
 
