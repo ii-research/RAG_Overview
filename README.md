@@ -11,42 +11,30 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
 ### <a name="sp"></a>[Survey Papers]()
 
-- Retrieval-Enhanced Machine Learning: Synthesis and Opportunities 
-  - Meta: SIGIR-AP 2024, SIGIR 2025, [Paper](https://arxiv.org/abs/2407.12982)
-  - Highlight: TBA
+- ⭐ Retrieval-Enhanced Machine Learning: Synthesis and Opportunities ([link](https://arxiv.org/abs/2407.12982), 2024)
+  - Highlight: This is the survey manuscript used in the tutorials ([Retrieval-Enhanced Machine Learning](https://retrieval-enhanced-ml.github.io)) at SIGIR 2025 and SIGIR-AP 2024. This tutorial introduces core REML concepts and synthesizing the literature from various domains in machine learning (ML), including but beyond NLP. **What is unique to our approach is that we used consistent notations, to provide researchers with a unified and expandable framework**.
 
-- A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models 
-  - Meta: KDD, 2024 [Paper](https://arxiv.org/abs/2405.06211)
-  - Highlight: TBA
+- A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models ([paper](https://arxiv.org/abs/2405.06211), [RAG-Meets-LLMs Tutorial at KDD'24](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/))
+  - Highlight: This tutorial comprehensively reviews existing research studies in retrieval-augmented large language models (RA-LLMs), covering three primary technical perspectives: architectures, training strategies, and applications. As the preliminary knowledge, the authors briefly introduce the foundations and recent advances of LLMs. Then, to illustrate the practical significance of RAG for LLMs, the authors categorize mainstream relevant work by application areas, detailing the challenges of each and the corresponding capabilities of RA-LLMs specifically. Finally, to deliver deeper insights, the authors discuss current limitations and several promising directions for future research. Meanwhile, the **accompanying [survey paper](https://arxiv.org/abs/2405.06211) and [slides](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/)** are publicly available.
 
-- A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions 
-  - Meta: ACM TIS, 2025 [Paper](https://arxiv.org/pdf/2311.05232)
-  - Highlight: TBA
+- A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions ([paper](https://arxiv.org/pdf/2311.05232), ACM Transactions on Information Systems-2025)
+  - Highlight: The discussion includes representative methodologies for mitigating LLM hallucinations. Additionally, **the authors delve into the current limitations faced by retrieval-augmented LLMs in combating hallucinations**, offering insights for developing more robust IR systems. 
 
-- Retrieval-Enhanced Machine Learning: Synthesis and Opportunities 
-  - Meta: SIGIR-AP, 2024 [Paper](https://arxiv.org/pdf/2407.12982)
-  - Highlight: TBA
+- A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions ([paper](https://arxiv.org/pdf/2410.12837), 2024)
+  - Highlight: The study explores the basic architecture of RAG, focusing on how retrieval and generation are integrated to handle knowledge-intensive tasks. A detailed review of the significant technological advancements in RAG is provided, including key innovations in retrieval-augmented language models and applications across various domains such as question-answering, summarization, and knowledge-based tasks. Recent research breakthroughs are discussed, highlighting novel methods for improving retrieval efficiency. Furthermore, the paper examines ongoing challenges such as scalability, bias, and ethical concerns in deployment.
 
-- A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions 
-  - Meta: Arxiv, 2024, [Paper](https://arxiv.org/pdf/2410.12837)
-  - Highlight: TBA
+- Retrieval-Augmented Generation for AI-Generated Content: A Survey ([paper](https://arxiv.org/pdf/2402.19473), 2024)
+  - Highlight: The authors first classify RAG foundations according to how the retriever augments the generator. They distill the fundamental abstractions of the augmentation methodologies for various retrievers and generators. This unified perspective encompasses all RAG scenarios, illuminating advancements and pivotal technologies that help with potential future progress. The authors also summarize additional enhancements methods for RAG, facilitating effective engineering and implementation of RAG systems. Then from another view, the authors survey on practical applications of RAG across different modalities and tasks, offering valuable references for researchers and practitioners. Furthermore, the authors introduce the benchmarks for RAG, discuss the limitations of current RAG systems, and suggest potential directions for future research. 
 
-- Retrieval-Augmented Generation for AI-Generated Content: A Survey 
-  - Meta: Arxiv, 2024, [Paper](https://arxiv.org/pdf/2402.19473)
-  - Highlight: TBA
+- Information Retrieval for Artificial General Intelligence: A New Perspective on Information Retrieval Research ([Perspective paper@SIGIR-2025](https://dl.acm.org/doi/pdf/10.1145/3726302.3730349))
+  - Highlight: The author presents a new perspective on IR research in which the users of an IR system are intelligent agents instead of human users. Extending the current work on retrieval-augmented generation (RAG), the author identifies five novel IR tasks that an intelligent agent must be able to perform in order to achieve Human-Level Artificial Intelligence, or Artificial General Intelligence (AGI), including 1) External Information Retrieval (EIR) to access new information unseen by the agent, 2) Provenance Information Retrieval (PIR) to trace the provenance of information, 3) Curriculum Information Retrieval (CIR) to actively acquire the most useful new data and information for lifelong learning, 4) Rule Information Retrieval (RIR) to perform reasoning and problem solving, and 5) Scenario Information Retrieval (SIR) to leverage past scenarios for problem solving and decision making. 
 
-- Information Retrieval for Artificial General Intelligence:
-A New Perspective on Information Retrieval Research 
-  - Meta: SIGIR, 2025, [Paper](https://dl.acm.org/doi/pdf/10.1145/3726302.3730349)
-  - Highlight: TBA
-
-- Synergizing RAG and Reasoning: A Systematic Review 
-  - Meta: Arxiv, 2025, [Paper](https://arxiv.org/pdf/2504.15909)
-  - Highlight: TBA
+- Synergizing RAG and Reasoning: A Systematic Review ([paper](https://arxiv.org/pdf/2504.15909), 2025)
+  - Highlight: This survey paper presents **a systematic review of the collaborative interplay between RAG and reasoning**, clearly defining "reasoning" within the RAG context. It construct a comprehensive taxonomy encompassing multi-dimensional collaborative objectives, representative paradigms, and technical implementations, and analyze the bidirectional synergy methods.
 
 ### <a name="ec"></a>[Evaluation Campaigns]()
  
-- **TREC RAG Track** ([site](https://trec-rag.github.io))
+- **TREC RAG Track** ([site](https://trec-rag.github.io), 2024, 2025)
   - Highlight: The TREC RAG Track is an **ongoing, multi-year effort**. It aims to bring the research community together around a unified benchmark to evaluate the end-to-end performance of systems that combine retrieval and generation. By structuring participation through distinct but complementary tasks, the track enabled deeper analysis of individual system components and their interactions. In fact, the following TREC tracks (BioGEN 2025 Track, DRAGUN 2025 Track, IKAT 2025 Track, RAGTIME 2025 Track) also support RAG-based approaches, please refer to the corresponding websites for more information.
 
 - **SIGIR 2025 LiveRAG Challenge track** ([site](https://liverag.tii.ae)) 
@@ -69,7 +57,7 @@ A New Perspective on Information Retrieval Research
 - **Retrieval-Enhanced Machine Learning** ([site](https://retrieval-enhanced-ml.github.io))
   - Highlight: This is an **ongoing, multi-year effort** that now includes tutorials at **SIGIR 2025** and **SIGIR-AP 2024**, as well as a workshop held in conjunction with **SIGIR 2023**. Meanwhile, the survey manuscript titled “Retrieval-Enhanced Machine Learning: Synthesis and Opportunities” (detailed in <a href="#sp">Survey Papers</a>) and the accompanying slides (e.g., [REML@SIGIR-2025 slides](https://retrieval-enhanced-ml.github.io/sigir-2025.html)) are publicly available.
 
-- **Tutorial: Retrieval-based Language Models and Applications**
+- ⭐ **Tutorial: Retrieval-based Language Models and Applications**
   - Highlight: This tutorial at ACL-2023 ([site](https://acl2023-retrieval-lm.github.io) and [paper](https://aclanthology.org/2023.acl-tutorials.6.pdf)) offers a detailed survey, The slides and reference papers are also available on the website. The **subsequent position paper** by Akari Asai et al. ([Reliable, Adaptable, and Attributable Language Models with Retrieval](https://arxiv.org/abs/2403.03187)) is also highly insightful and thought-provoking.
 
 - **R3AG: Workshop on Refined and Reliable Retrieval Augmented Generation** 
