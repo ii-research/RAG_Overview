@@ -11,13 +11,9 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
 ### <a name="sp"></a>[Survey Papers]()
 
-| Rating | Year | Venue | Title & Highlight | Link |
-|------|------|-------|-------|------|
-| ⭐ | 2024 | * | Retrieval-Enhanced Machine Learning: Synthesis and Opportunities | [Paper](https://arxiv.org/abs/2407.12982) |
-| * | 2024 | KDD | A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models | [Paper](https://arxiv.org/abs/2405.06211) |
-
-| * | 2024 | KDD | A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models | [Paper](https://arxiv.org/abs/2405.06211) |
-
+- Retrieval-Enhanced Machine Learning: Synthesis and Opportunities 
+  - Meta: SIGIR-AP 2024, SIGIR 2025, [Paper](https://arxiv.org/abs/2407.12982)
+  - Highlight: TBA
 
 - A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models 
   - Meta: 2024, KDD, [Paper](https://arxiv.org/abs/2405.06211)
