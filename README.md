@@ -16,23 +16,33 @@ Given the rapid evolution of this field, we will continue to update the reposito
   - Highlight: TBA
 
 - A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models 
-  - Meta: 2024, KDD, [Paper](https://arxiv.org/abs/2405.06211)
+  - Meta: KDD, 2024 [Paper](https://arxiv.org/abs/2405.06211)
   - Highlight: TBA
 
+- A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions 
+  - Meta: ACM TIS, 2025 [Paper](https://arxiv.org/pdf/2311.05232)
+  - Highlight: TBA
 
-2024-A Survey on Hallucination in Large Language Models Principles, Taxonomy, Challenges, and Open Questions.pdf
+- Retrieval-Enhanced Machine Learning: Synthesis and Opportunities 
+  - Meta: SIGIR-AP, 2024 [Paper](https://arxiv.org/pdf/2407.12982)
+  - Highlight: TBA
 
-2024-sigir-ap-tutorial-Retrieval-Enhanced Machine Learning Synthesis and Opportunities.pdf
+- A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions 
+  - Meta: Arxiv, 2024, [Paper](https://arxiv.org/pdf/2410.12837)
+  - Highlight: TBA
 
-2024.10-A Comprehensive Survey of Retrieval-Augmented Generation (RAG) Evolution, Current Landscape and Future Directions.pdf
+- Retrieval-Augmented Generation for AI-Generated Content: A Survey 
+  - Meta: Arxiv, 2024, [Paper](https://arxiv.org/pdf/2402.19473)
+  - Highlight: TBA
 
-24_Retrieval-Augmented Generation for AI-Generated Content A Survey.pdf
+- Information Retrieval for Artificial General Intelligence:
+A New Perspective on Information Retrieval Research 
+  - Meta: SIGIR, 2025, [Paper](https://dl.acm.org/doi/pdf/10.1145/3726302.3730349)
+  - Highlight: TBA
 
-==2024-Retrieval-Augmented Generation for AI-Generated Content A Survey.pdf
-
-==2025-perspecitve-Information Retrieval for Artificial General Intelligence A New Perspective on Information Retrieval Research.pdf
-
-==2025_Synergizing RAG and Reasoning A Systematic Review.pdf
+- Synergizing RAG and Reasoning: A Systematic Review 
+  - Meta: Arxiv, 2025, [Paper](https://arxiv.org/pdf/2504.15909)
+  - Highlight: TBA
 
 ### <a name="ec"></a>[Evaluation Campaigns]()
 
