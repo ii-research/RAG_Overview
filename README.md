@@ -78,24 +78,17 @@ A New Perspective on Information Retrieval Research
   - Highlight: TBA
  
 ### <a name="wt"></a>[Workshops & Tutorials]()
-- ⭐ Retrieval-Enhanced Machine Learning
-  - Meta: [Site](https://retrieval-enhanced-ml.github.io)
-  - Highlight: This is an ongoing, multi-year effort that now includes tutorials at **SIGIR 2025** and **SIGIR-AP 2024**, as well as a workshop held in conjunction with **SIGIR 2023**. Meanwhile, the survey manuscript titled “Retrieval-Enhanced Machine Learning: Synthesis and Opportunities” (detailed in <a name="sp"></a>[Survey Papers]()) and the accompanying slides (e.g., [REML@SIGIR-2025 slides](https://retrieval-enhanced-ml.github.io/sigir-2025.html)) are publicly available.
+- ⭐ [Retrieval-Enhanced Machine Learning](https://retrieval-enhanced-ml.github.io)
+  - Highlight: This is an ongoing, multi-year effort that now includes tutorials at **SIGIR 2025** and **SIGIR-AP 2024**, as well as a workshop held in conjunction with **SIGIR 2023**. Meanwhile, the survey manuscript titled “Retrieval-Enhanced Machine Learning: Synthesis and Opportunities” (detailed in <a href="#sp">Survey Papers</a>) and the accompanying slides (e.g., [REML@SIGIR-2025 slides](https://retrieval-enhanced-ml.github.io/sigir-2025.html)) are publicly available.
     
-- ⭐ R3AG:  Workshop on Refined and Reliable Retrieval Augmented Generation 
-  - Meta: SIGIR-AP 2024, [Site](https://r3ag-sigir-ap.github.io/), [Paper](https://arxiv.org/pdf/2410.20598)
-  - Highlight: This is an ongoing, multi-year effort that now includes workshops at **SIGIR-AP 2024** and **SIGIR-AP 2025**.
+- ⭐ R3AG: Workshop on Refined and Reliable Retrieval Augmented Generation 
+  - Highlight: This is an ongoing, multi-year effort that now includes workshops **R3AG@SIGIR-AP 2024** ([site](https://r3ag-sigir-ap.github.io/) and [paper](https://arxiv.org/pdf/2410.20598)) and **R3AG@SIGIR-AP 2025** (site and paper will be added later).
 
-- BREV-RAG (Beyond Relevance-based EValuation of RAG systems) 
-  - Meta: SIGIR-AP 2025, [Paper](http://sakailab.com/brev-rag/)
-  - Highlight: TBA
+- ⭐ BREV-RAG (Beyond Relevance-based EValuation of RAG systems) 
+  - Highlight: The workshop of [BREV-RAG@SIGIR-AP 2025](http://sakailab.com/brev-rag/) focuses on the viewpoint of evaluation.
  
-- Tutorial: Retrieval-based Language Models and Applications
-  - Meta: ACL 2023, [Paper](https://aclanthology.org/2023.acl-tutorials.6.pdf)
-  - Highlight: TBA
- 
-
-
+- ⭐ Tutorial: Retrieval-based Language Models and Applications
+  - Highlight: This tutorial at ACL-2023 ([site](https://acl2023-retrieval-lm.github.io) and [paper](https://aclanthology.org/2023.acl-tutorials.6.pdf)) offers a detailed survey, The slides and reference papers are also available on the website. The subsequent position paper by Akari Asai et al. ([Reliable, Adaptable, and Attributable Language Models with Retrieval](https://arxiv.org/abs/2403.03187)) is also highly insightful and thought-provoking.
 
 ### <a name="ps"></a>[Papers]()
 TBA
