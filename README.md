@@ -78,9 +78,13 @@ A New Perspective on Information Retrieval Research
   - Highlight: TBA
  
 ### <a name="wt"></a>[Workshops & Tutorials]()
-- R3AG: First Workshop on Refined and Reliable Retrieval Augmented Generation 
-  - Meta: SIGIR-AP 2024, [Paper](https://arxiv.org/pdf/2410.20598)
-  - Highlight: TBA
+- ⭐ Retrieval-Enhanced Machine Learning
+  - Meta: [Site](https://retrieval-enhanced-ml.github.io)
+  - Highlight: This is an ongoing, multi-year effort that now includes tutorials at **SIGIR 2025** and **SIGIR-AP 2024**, as well as a workshop held in conjunction with **SIGIR 2023**. Meanwhile, the survey manuscript titled “Retrieval-Enhanced Machine Learning: Synthesis and Opportunities” (detailed in <a name="sp"></a>[Survey Papers]()) and the accompanying slides (e.g., [REML@SIGIR-2025 slides](https://retrieval-enhanced-ml.github.io/sigir-2025.html)) are publicly available.
+    
+- ⭐ R3AG:  Workshop on Refined and Reliable Retrieval Augmented Generation 
+  - Meta: SIGIR-AP 2024, [Site](https://r3ag-sigir-ap.github.io/), [Paper](https://arxiv.org/pdf/2410.20598)
+  - Highlight: This is an ongoing, multi-year effort that now includes workshops at **SIGIR-AP 2024** and **SIGIR-AP 2025**.
 
 - BREV-RAG (Beyond Relevance-based EValuation of RAG systems) 
   - Meta: SIGIR-AP 2025, [Paper](http://sakailab.com/brev-rag/)
@@ -90,9 +94,7 @@ A New Perspective on Information Retrieval Research
   - Meta: ACL 2023, [Paper](https://aclanthology.org/2023.acl-tutorials.6.pdf)
   - Highlight: TBA
  
-- Retrieval-Enhanced Machine Learning
-  - Meta: ACL 2023, [Paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531722)
-  - Highlight: TBA
+
 
 
 ### <a name="ps"></a>[Papers]()
