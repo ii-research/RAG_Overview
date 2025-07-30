@@ -35,34 +35,54 @@ Given the rapid evolution of this field, we will continue to update the reposito
 ==2025_Synergizing RAG and Reasoning A Systematic Review.pdf
 
 ### <a name="ec"></a>[Evaluation Campaigns]()
-2024-Revisiting the Solution of Meta KDD Cup 2024 CRAG.pdf
 
-2025 LiveRAG Challenge - Home.pdf
-
-2024-Winning Solution For Meta KDD Cup 24.pdf
-
-TREC 2024 RAG Track
+- Revisiting the Solution of Meta KDD Cup 2024: CRAG 
+  - Meta: KDD Cup CRAG Workshop 2024, [Paper](https://arxiv.org/pdf/2409.15337)
+  - Highlight: TBA
+ 
+- RMIT–ADM+S at the SIGIR 2025 LiveRAG Challenge 
+  - Meta: Arxiv 2025, [Paper](https://arxiv.org/pdf/2506.14516)
+  - Highlight: TBA
+ 
+- Winning Solution For Meta KDD Cup’ 24 
+  - Meta: KDD Cup CRAG Workshop 2024, [Paper](https://arxiv.org/pdf/2410.00005)
+  - Highlight: TBA
+ 
+- BERGEN: A Benchmarking Library for Retrieval-Augmented Generation 
+  - Meta: EMNLP (findings) 2024, [Paper](https://arxiv.org/pdf/2407.01102)
+  - Highlight: TBA
+ 
+- TREC 2024 RAG Track (TBA)
 
 ### <a name="op"></a>[Open-source Projects]()
-2024-BERGEN A Benchmarking Library for Retrieval-Augmented Generation.pdf
+- BERGEN: A Benchmarking Library for Retrieval-Augmented Generation 
+  - Meta: EMNLP (findings) 2024, [Paper](https://arxiv.org/pdf/2407.01102)
+  - Highlight: TBA
 
-2025.2-FlashRAG A Modular Toolkit for Efficient Retrieval-Augmented Generatio Research.pdf
+- FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research 
+  - Meta: WWW 2025, [Paper](https://arxiv.org/pdf/2405.13576)
+  - Highlight: TBA
 
-2025.4-LightRAG Simple and Fast Retrieval-Augmented Generation.pdf
-
+- LIGHTRAG: SIMPLE AND FAST RETRIEVAL-AUGMENTED GENERATION 
+  - Meta: Arxiv 2025, [Paper](https://arxiv.org/pdf/2410.05779)
+  - Highlight: TBA
+ 
 ### <a name="wt"></a>[Workshops & Tutorials]()
-R3AG: First Workshop on Refined and Reliable Retrieval Augmented Generation
+- R3AG: First Workshop on Refined and Reliable Retrieval Augmented Generation 
+  - Meta: SIGIR-AP 2024, [Paper](https://arxiv.org/pdf/2410.20598)
+  - Highlight: TBA
 
-URL: https://r3ag-sigir-ap.github.io/
-
-BREV-RAG (Beyond Relevance-based EValuation of RAG systems) workshop@SIGIR-AP 2025
-http://sakailab.com/brev-rag/
-
-⭐ ACL 2023 Tutorial: Retrieval-based Language Models and Applications
-https://acl2023-retrieval-lm.github.io
-
-⭐ Retrieval-Enhanced Machine Learning (REML)
-https://retrieval-enhanced-ml.github.io
+- BREV-RAG (Beyond Relevance-based EValuation of RAG systems) 
+  - Meta: SIGIR-AP 2025, [Paper](http://sakailab.com/brev-rag/)
+  - Highlight: TBA
+ 
+- Tutorial: Retrieval-based Language Models and Applications
+  - Meta: ACL 2023, [Paper](https://aclanthology.org/2023.acl-tutorials.6.pdf)
+  - Highlight: TBA
+ 
+- Retrieval-Enhanced Machine Learning
+  - Meta: ACL 2023, [Paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531722)
+  - Highlight: TBA
 
 
 ### <a name="ps"></a>[Papers]()
