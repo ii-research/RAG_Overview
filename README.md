@@ -45,33 +45,24 @@ A New Perspective on Information Retrieval Research
   - Highlight: TBA
 
 ### <a name="ec"></a>[Evaluation Campaigns]()
+ 
+- **TREC RAG Track** ([site](https://trec-rag.github.io))
+  - Highlight: The TREC RAG Track is an **ongoing, multi-year effort**. It aims to bring the research community together around a unified benchmark to evaluate the end-to-end performance of systems that combine retrieval and generation. By structuring participation through distinct but complementary tasks, the track enabled deeper analysis of individual system components and their interactions. In fact, the following TREC tracks (BioGEN 2025 Track, DRAGUN 2025 Track, IKAT 2025 Track, RAGTIME 2025 Track) also support RAG-based approaches, please refer to the corresponding websites for more information.
 
-- Revisiting the Solution of Meta KDD Cup 2024: CRAG 
-  - Meta: KDD Cup CRAG Workshop 2024, [Paper](https://arxiv.org/pdf/2409.15337)
-  - Highlight: TBA
- 
-- RMIT–ADM+S at the SIGIR 2025 LiveRAG Challenge 
-  - Meta: Arxiv 2025, [Paper](https://arxiv.org/pdf/2506.14516)
-  - Highlight: TBA
- 
-- Winning Solution For Meta KDD Cup’ 24 
-  - Meta: KDD Cup CRAG Workshop 2024, [Paper](https://arxiv.org/pdf/2410.00005)
-  - Highlight: TBA
- 
-- BERGEN: A Benchmarking Library for Retrieval-Augmented Generation 
-  - Meta: EMNLP (findings) 2024, [Paper](https://arxiv.org/pdf/2407.01102)
-  - Highlight: TBA
- 
-- TREC 2024 RAG Track (TBA)
+- **SIGIR 2025 LiveRAG Challenge track** ([site](https://liverag.tii.ae)) 
+  - Highlight: The goal of the SIGIR'2025 LiveRAG Challenge is to allow research teams across academia and industry to advance their RAG research and compare the performance of their solutions with other teams, on a fixed corpus (derived from the publicly available FineWeb) and a fixed open-source LLM, Falcon3-10B-Instruct.
 
+- **Meta Comprehensive RAG Benchmark: KDD Cup 2024** ([site](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024)) 
+  - Highlight: The Meta Comprehensive RAG Challenge (CRAG) aims to provide a good benchmark with clear metrics and evaluation protocols, to enable rigorous assessment of the RAG systems, drive innovations, and advance the solutions.
+ 
 ### <a name="op"></a>[Open-source Projects]()
-- FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research ([paper](https://arxiv.org/pdf/2405.13576), [site](https://github.com/RUC-NLPIR/FlashRAG))
+- **FlashRAG**: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research ([paper](https://arxiv.org/pdf/2405.13576), [site](https://github.com/RUC-NLPIR/FlashRAG))
   - Highlight: FlashRAG is a Python toolkit for the reproduction and development of Retrieval Augmented Generation (RAG) research. Our toolkit includes about 36 pre-processed benchmark RAG datasets and around 17 state-of-the-art RAG algorithms.
 
-- LightRAG: Simple and Fast Retrieval-Augmented Generation ([paper](https://arxiv.org/pdf/2410.05779), [site](https://github.com/HKUDS/LightRAG))
+- **LightRAG**: Simple and Fast Retrieval-Augmented Generation ([paper](https://arxiv.org/pdf/2410.05779), [site](https://github.com/HKUDS/LightRAG))
   - Highlight: Focusing on the effective combination of LLM-generated knowledge graphs and graph machine learning, other closely related work includes [GraphRAG](https://github.com/microsoft/graphrag?tab=readme-ov-file) by Microsoft Research.
 
- - BERGEN: A Benchmarking Library for Retrieval-Augmented Generation ([paper](https://aclanthology.org/2024.findings-emnlp.449.pdf), [site](https://github.com/naver/bergen))
+ - **BERGEN**: A Benchmarking Library for Retrieval-Augmented Generation ([paper](https://aclanthology.org/2024.findings-emnlp.449.pdf), [site](https://github.com/naver/bergen))
    - Highlight: A library designed to benchmark RAG systems with a focus on question-answering (QA). It addresses the challenge of inconsistent benchmarking in comparing approaches and understanding the impact of each component in a RAG pipeline.
      
 ### <a name="wt"></a>[Workshops & Tutorials]()
