@@ -11,12 +11,15 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
 ### <a name="sp"></a>[Survey Papers]()
 
-| Rating | Year | Venue | Title | Link |
+| Rating | Year | Venue | Title & Highlight | Link |
 |------|------|-------|-------|------|
 | ⭐ | 2024 | * | Retrieval-Enhanced Machine Learning: Synthesis and Opportunities | [Paper](https://arxiv.org/abs/2407.12982) |
 | * | 2024 | KDD | A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models | [Paper](https://arxiv.org/abs/2405.06211) |
 
+| * | 2024 | KDD | A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models | [Paper](https://arxiv.org/abs/2405.06211) |
 
+- A Survey on RAG Meeting LLMs Towards Retrieval-Augmented Large Language Models
+2024 | KDD | [Paper](https://arxiv.org/abs/2405.06211) 
 
 2024-A Survey on Hallucination in Large Language Models Principles, Taxonomy, Challenges, and Open Questions.pdf
 
