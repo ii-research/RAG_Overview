@@ -72,8 +72,8 @@ A New Perspective on Information Retrieval Research
   - Highlight: Focusing on the effective combination of LLM-generated knowledge graphs and graph machine learning, other closely related work includes [GraphRAG](https://github.com/microsoft/graphrag?tab=readme-ov-file) by Microsoft Research.
 
  - BERGEN: A Benchmarking Library for Retrieval-Augmented Generation ([paper](https://aclanthology.org/2024.findings-emnlp.449.pdf), [site](https://github.com/naver/bergen))
-  - Highlight: A library designed to benchmark RAG systems with a focus on question-answering (QA). It addresses the challenge of inconsistent benchmarking in comparing approaches and understanding the impact of each component in a RAG pipeline.
-    
+   - Highlight: A library designed to benchmark RAG systems with a focus on question-answering (QA). It addresses the challenge of inconsistent benchmarking in comparing approaches and understanding the impact of each component in a RAG pipeline.
+     
 ### <a name="wt"></a>[Workshops & Tutorials]()
 - ⭐ [Retrieval-Enhanced Machine Learning](https://retrieval-enhanced-ml.github.io)
   - Highlight: This is an ongoing, multi-year effort that now includes tutorials at **SIGIR 2025** and **SIGIR-AP 2024**, as well as a workshop held in conjunction with **SIGIR 2023**. Meanwhile, the survey manuscript titled “Retrieval-Enhanced Machine Learning: Synthesis and Opportunities” (detailed in <a href="#sp">Survey Papers</a>) and the accompanying slides (e.g., [REML@SIGIR-2025 slides](https://retrieval-enhanced-ml.github.io/sigir-2025.html)) are publicly available.
