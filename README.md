@@ -60,11 +60,14 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - ⭐ **Tutorial: Retrieval-based Language Models and Applications**
   - Highlight: This tutorial at ACL-2023 ([site](https://acl2023-retrieval-lm.github.io) and [paper](https://aclanthology.org/2023.acl-tutorials.6.pdf)) offers a detailed survey, The slides and reference papers are also available on the website. The **subsequent position paper** by Akari Asai et al. ([Reliable, Adaptable, and Attributable Language Models with Retrieval](https://arxiv.org/abs/2403.03187)) is also highly insightful and thought-provoking.
 
+- ⭐ **Tutorial: Retrieval and Ranking with LLMs**
+  - Highlight: Generative LLMs like GPT, Gemini, and Llama are transforming Information Retrieval, enabling new and more effective approaches to document retrieval and ranking. The switch from the previous generation pre-trained language models backbones (e.g., BERT, T5) to the new generative LLMs backbones has required the field to adapt training processes; it also has provided unprecedented capabilities and opportunities, **stimulating research into zero-shot approaches**, reasoning approaches, reinforcement learning based training, and multilingual and multimodal applications. This tutorial at SIGIR-2025 ([site](https://ielab.io/tutorials/r2llms.html) and [slides](https://ielab.io/tutorials/r2llms.html)) provides a systematic overview of LLM-based retrievers and rankers, covering fundamental architectures, training paradigms, real-world deployment considerations, and open challenges and research directions. At the end of the tutorial, **a number of helpful tools for research on LLM-retrievers** are listed.
+
 - **R3AG: Workshop on Refined and Reliable Retrieval Augmented Generation** 
   - Highlight: This is an ongoing, multi-year effort that now includes workshops **R3AG@SIGIR-AP 2024** ([site](https://r3ag-sigir-ap.github.io/) and [paper](https://arxiv.org/pdf/2410.20598)) and **R3AG@SIGIR-AP 2025** (site and paper will be added later).
 
 - **BREV-RAG (Beyond Relevance-based EValuation of RAG systems)**
-  - Highlight: The workshop of [BREV-RAG@SIGIR-AP 2025](http://sakailab.com/brev-rag/) focuses on the viewpoint of evaluation.
+  - Highlight: The workshop of [BREV-RAG@SIGIR-AP 2025](http://sakailab.com/brev-rag/) focuses on the viewpoint of evaluation, which will be held in December, 2025. 
  
 ### <a name="ps"></a>[Papers]()
 TBA
