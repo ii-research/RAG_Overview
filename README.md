@@ -8,6 +8,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - <a href="#ec">Evaluation Campaigns</a>
 - <a href="#op">Open-source Projects</a>
 - <a href="#wt">Workshops & Tutorials</a>
+- <a href="#ps">Papers</a>
 
 ### <a name="sp"></a>[Survey Papers]()
 
@@ -70,4 +71,5 @@ Given the rapid evolution of this field, we will continue to update the reposito
   - Highlight: The workshop of [BREV-RAG@SIGIR-AP 2025](http://sakailab.com/brev-rag/) focuses on the viewpoint of evaluation, which will be held in December, 2025. 
  
 ### <a name="ps"></a>[Papers]()
-TBA
+- A Retrieval-augmented Complex Story Generation Framework with A Forest of Evidence ([paper](https://arxiv.org/pdf/2310.05388)
+  - Highlight: This paper presents GROVE, a retrieval-augmented story generation framework designed to help large language models (LLMs) generate complex and credible narratives. The framework consists of three stages: (1) building a retrieval repository of human-written stories based on target control conditions (e.g., plot, mood, genre, subject); (2) constructing an evidence forest through an iterative “asking-why” prompting process to uncover missing or ambiguous background details; and (3) story rewriting by incorporating selected evidence chains to enrich and refine the story. Experimental results show that GROVE outperforms baselines such as ICL, CoT, and Story-S on both human and automatic evaluations, especially in plot complexity and creativity. The approach demonstrates generalizability even on smaller models like Alpaca-Plus-7B, and includes novel metrics and a detailed ablation study to support its findings.
