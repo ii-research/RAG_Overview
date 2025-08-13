@@ -81,7 +81,13 @@ Given the rapid evolution of this field, we will continue to update the reposito
 ### <a name="ps"></a>[Papers]()
 
 #### <a name='ro'></a>[Retrieval Orchestration]()
-[CLL24] Unified Active Retrieval for Retrieval-Augmented Generation. EMNLP Findings.
+[CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
+[JBC24] Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity. NAACL.
+[JXG23] Active Retrieval-Augmented Generation. EMNLP.
+[STA24] DRAGIN: Dynamic Retrieval-Augmented Generation Based on the Real-Time Information Needs of Large Language Models. ACL.
+[AWW24] Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. ICLR.
+[CQL25] PAIRS: Parametric-Verified Adaptive Information Retrieval and Selection for Efficient RAG. arXiv.
+
 
 
 #### <a name='o'></a>[Optimization]()
