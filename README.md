@@ -18,7 +18,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
     -  <a href="#rogf">Retriever (optimization), Generator (frozen)</a>
     -  <a href="#jo">Joint Optimization</a>
 
-### <a name="sp"></a>[Survey Papers]()
+## <a name="sp"></a>[Survey Papers]()
 
 - ⭐ Retrieval-Enhanced Machine Learning: Synthesis and Opportunities ([link](https://arxiv.org/abs/2407.12982), 2024)
   - Highlight: This is the survey manuscript used in the tutorials ([Retrieval-Enhanced Machine Learning](https://retrieval-enhanced-ml.github.io)) at SIGIR 2025 and SIGIR-AP 2024. This tutorial introduces core REML concepts and synthesizing the literature from various domains in machine learning (ML), including but beyond NLP. **What is unique to our approach is that we used consistent notations, to provide researchers with a unified and expandable framework**.
@@ -41,7 +41,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - Synergizing RAG and Reasoning: A Systematic Review ([paper](https://arxiv.org/pdf/2504.15909), 2025)
   - Highlight: This survey paper presents **a systematic review of the collaborative interplay between RAG and reasoning**, clearly defining "reasoning" within the RAG context. It construct a comprehensive taxonomy encompassing multi-dimensional collaborative objectives, representative paradigms, and technical implementations, and analyze the bidirectional synergy methods.
 
-### <a name="ec"></a>[Evaluation Campaigns]()
+## <a name="ec"></a>[Evaluation Campaigns]()
  
 - **TREC RAG Track** ([site](https://trec-rag.github.io), 2024, 2025)
   - Highlight: The TREC RAG Track is an **ongoing, multi-year effort**. It aims to bring the research community together around a unified benchmark to evaluate the end-to-end performance of systems that combine retrieval and generation. By structuring participation through distinct but complementary tasks, the track enabled deeper analysis of individual system components and their interactions. In fact, the following TREC tracks (BioGEN 2025 Track, DRAGUN 2025 Track, IKAT 2025 Track, RAGTIME 2025 Track) also support RAG-based approaches, please refer to the corresponding websites for more information.
@@ -52,7 +52,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - **Meta Comprehensive RAG Benchmark: KDD Cup 2024** ([site](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024)) 
   - Highlight: The Meta Comprehensive RAG Challenge (CRAG) aims to provide a good benchmark with clear metrics and evaluation protocols, to enable rigorous assessment of the RAG systems, drive innovations, and advance the solutions.
  
-### <a name="op"></a>[Open-source Projects]()
+## <a name="op"></a>[Open-source Projects]()
 - **FlashRAG**: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research ([paper](https://arxiv.org/pdf/2405.13576), [site](https://github.com/RUC-NLPIR/FlashRAG))
   - Highlight: FlashRAG is a Python toolkit for the reproduction and development of Retrieval Augmented Generation (RAG) research. Our toolkit includes about 36 pre-processed benchmark RAG datasets and around 17 state-of-the-art RAG algorithms.
 
@@ -62,7 +62,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
  - **BERGEN**: A Benchmarking Library for Retrieval-Augmented Generation ([paper](https://aclanthology.org/2024.findings-emnlp.449.pdf), [site](https://github.com/naver/bergen))
    - Highlight: A library designed to benchmark RAG systems with a focus on question-answering (QA). It addresses the challenge of inconsistent benchmarking in comparing approaches and understanding the impact of each component in a RAG pipeline.
      
-### <a name="wt"></a>[Workshops & Tutorials]()
+## <a name="wt"></a>[Workshops & Tutorials]()
 - **Retrieval-Enhanced Machine Learning** ([site](https://retrieval-enhanced-ml.github.io))
   - Highlight: This is an **ongoing, multi-year effort** that now includes tutorials at **SIGIR 2025** and **SIGIR-AP 2024**, as well as a workshop held in conjunction with **SIGIR 2023**. Meanwhile, the survey manuscript titled “Retrieval-Enhanced Machine Learning: Synthesis and Opportunities” (detailed in <a href="#sp">Survey Papers</a>) and the accompanying slides (e.g., [REML@SIGIR-2025 slides](https://retrieval-enhanced-ml.github.io/sigir-2025.html)) are publicly available.
 
@@ -78,16 +78,18 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - **BREV-RAG (Beyond Relevance-based EValuation of RAG systems)**
   - Highlight: The workshop of [BREV-RAG@SIGIR-AP 2025](http://sakailab.com/brev-rag/) focuses on the viewpoint of evaluation, which will be held in December, 2025. 
  
-### <a name="ps"></a>[Papers]()
+## <a name="ps"></a>[Papers]()
 
-#### <a name='ro'></a>[Retrieval Orchestration]()
-[CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
-[JBC24] Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity. NAACL.
+### <a name='ro'></a>[Retrieval Orchestration]()
+#### <a name='when'></a>[When to retrieval]()
+- [CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
+- [JBC24] [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://aclanthology.org/2024.naacl-long.389/). NAACL.
 [JXG23] Active Retrieval-Augmented Generation. EMNLP.
 [STA24] DRAGIN: Dynamic Retrieval-Augmented Generation Based on the Real-Time Information Needs of Large Language Models. ACL.
 [AWW24] Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. ICLR.
 [CQL25] PAIRS: Parametric-Verified Adaptive Information Retrieval and Selection for Efficient RAG. arXiv.
+[CLL24] Unified Active Retrieval for Retrieval-Augmented Generation. EMNLP Findings.
 
 
 
-#### <a name='o'></a>[Optimization]()
+### <a name='o'></a>[Optimization]()
