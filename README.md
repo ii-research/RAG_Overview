@@ -3,11 +3,20 @@
 This repository aims to provide a comprehensive overview of Retrieval-augmented Generation (RAG) by curating highly related resources, including representative papers, workshops, tutorials, evaluation tracts and open-source projects.
 Given the rapid evolution of this field, we will continue to update the repository on a regular basis.
 
-- <a href="#ps">Papers</a>
 - <a href="#sp">Survey Papers</a>
 - <a href="#ec">Evaluation Campaigns</a>
 - <a href="#op">Open-source Projects</a>
 - <a href="#wt">Workshops & Tutorials</a>
+- <a href="#ps">Papers</a>
+  - <a href="#ro">Retrieval Orchestration</a>
+    - <a href="#when">When to retrieve</a>
+    - <a href="#where">Where to retrieve</a>
+    - <a href="#what">What to retrieve</a>
+    - <a href="#how">How to retrieve</a>
+  - <a href="#o">Optimization</a>
+    -  <a href="#rfgo">Retriever (frozen), Generator (optimization)</a>
+    -  <a href="#rogf">Retriever (optimization), Generator (frozen)</a>
+    -  <a href="#jo">Joint Optimization</a>
 
 ### <a name="sp"></a>[Survey Papers]()
 
@@ -70,4 +79,9 @@ Given the rapid evolution of this field, we will continue to update the reposito
   - Highlight: The workshop of [BREV-RAG@SIGIR-AP 2025](http://sakailab.com/brev-rag/) focuses on the viewpoint of evaluation, which will be held in December, 2025. 
  
 ### <a name="ps"></a>[Papers]()
-TBA
+
+#### <a name='ro'></a>[Retrieval Orchestration]()
+[CLL24] Unified Active Retrieval for Retrieval-Augmented Generation. EMNLP Findings.
+
+
+#### <a name='o'></a>[Optimization]()
