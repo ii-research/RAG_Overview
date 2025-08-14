@@ -4,9 +4,9 @@ This repository aims to provide a comprehensive overview of Retrieval-augmented 
 Given the rapid evolution of this field, we will continue to update the repository on a regular basis.
 
 - <a href="#sp">Survey Papers</a>
+- <a href="#wt">Workshops & Tutorials</a>
 - <a href="#ec">Evaluation Campaigns</a>
 - <a href="#op">Open-source Projects</a>
-- <a href="#wt">Workshops & Tutorials</a>
 - <a href="#ps">Papers</a>
   - <a href="#ro">Retrieval Orchestration</a>
     - <a href="#when">When to retrieve</a>
