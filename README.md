@@ -153,7 +153,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 #### <a name='rogf'></a>[Retriever (optimization), Generator (frozen)]()
 - [SMY24] [REPLUG: Retrieval-Augmented Black-Box Language Models](https://aclanthology.org/2024.naacl-long.463.pdf). NAACL.
 
-#### <a name='jo'></a>[Joint Optimization]()
+#### <a name='jo'></a>[Joint Optimization: Retriever (optimization), Generator (optimization)]()
 - [LML25] [RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards](https://arxiv.org/abs/2410.13509). ICLR.
 - [XLZ24] [C-Pack: Packed Resources For General Chinese Embeddings](https://arxiv.org/abs/2309.07597). SIGIR.
 - [GLJ25] [SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback](https://arxiv.org/abs/2410.18141). ICLR.
