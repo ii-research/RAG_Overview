@@ -9,14 +9,15 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - <a href="#op">Open-source Projects</a>
 - <a href="#ps">Papers</a>
   - <a href="#ro">Retrieval Orchestration</a>
-    - <a href="#when">When to retrieve</a>
-    - <a href="#where">Where to retrieve</a>
-    - <a href="#what">What to retrieve</a>
-    - <a href="#how">How to retrieve</a>
+    - <a href="#when">When to Retrieve</a>
+    - <a href="#where">Where to Retrieve</a>
+    - <a href="#what">What to Retrieve</a>
+    - <a href="#how">How to Retrieve</a>
+    - <a href="#com4r">Complementary Resources for Retrieval</a>
   - <a href="#o">Optimization</a>
     -  <a href="#rfgo">Retriever (frozen), Generator (optimization)</a>
     -  <a href="#rogf">Retriever (optimization), Generator (frozen)</a>
-    -  <a href="#jo">Joint Optimization</a>
+    -  <a href="#jo">Joint Optimization: Retriever (optimization), Generator (optimization)</a>
 
 ## <a name="sp"></a>[Survey Papers]()
 
@@ -69,9 +70,6 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - ⭐ **Tutorial: Retrieval-based Language Models and Applications**
   - Highlight: This tutorial at ACL-2023 ([site](https://acl2023-retrieval-lm.github.io) and [paper](https://aclanthology.org/2023.acl-tutorials.6.pdf)) offers a detailed survey, The slides and reference papers are also available on the website. The **subsequent position paper** by Akari Asai et al. ([Reliable, Adaptable, and Attributable Language Models with Retrieval](https://arxiv.org/abs/2403.03187)) is also highly insightful and thought-provoking.
 
-- ⭐ **Tutorial: Retrieval and Ranking with LLMs**
-  - Highlight: Generative LLMs like GPT, Gemini, and Llama are transforming Information Retrieval, enabling new and more effective approaches to document retrieval and ranking. The switch from the previous generation pre-trained language models backbones (e.g., BERT, T5) to the new generative LLMs backbones has required the field to adapt training processes; it also has provided unprecedented capabilities and opportunities, **stimulating research into zero-shot approaches**, reasoning approaches, reinforcement learning based training, and multilingual and multimodal applications. This tutorial at SIGIR-2025 ([site](https://ielab.io/tutorials/r2llms.html) and [slides](https://ielab.io/tutorials/r2llms.html)) provides a systematic overview of LLM-based retrievers and rankers, covering fundamental architectures, training paradigms, real-world deployment considerations, and open challenges and research directions. At the end of the tutorial, **a number of helpful tools for research on LLM-retrievers** are listed.
-
 - **R3AG: Workshop on Refined and Reliable Retrieval Augmented Generation** ([site](https://ii-research.github.io/R3AG/)) 
   - Highlight: This is an ongoing, multi-year effort that now includes workshops **R3AG@SIGIR-AP 2024** ([site](https://r3ag-sigir-ap.github.io/) and [paper](https://arxiv.org/pdf/2410.20598)) and **R3AG@SIGIR-AP 2025** ([site](https://ii-research.github.io/R3AG/2025/), **which calls for papers now**).
 
@@ -80,9 +78,9 @@ Given the rapid evolution of this field, we will continue to update the reposito
  
 ## <a name="ps"></a>[Papers]()
 
-### <a name='ro'></a>[Retrieval Orchestration]()
+  - ### <a name='ro'></a>[Retrieval Orchestration]()
 
-#### <a name='when'></a>[When to retrieval]()
+#### <a name='when'></a>[When to Retrieve]()
 - [CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
 - [JBC24] [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://aclanthology.org/2024.naacl-long.389/). NAACL.
 - [JXG23] [Active Retrieval-Augmented Generation](https://aclanthology.org/2023.emnlp-main.495/). EMNLP.
@@ -91,7 +89,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - [CQL25] [PAIRS: Parametric-Verified Adaptive Information Retrieval and Selection for Efficient RAG](https://arxiv.org/abs/2508.04057). arXiv.
 - [CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
 
-#### <a name='where'></a>[Where to retrieve]()
+#### <a name='where'></a>[Where to Retrieve]()
 - [PYZ23] [Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models](https://arxiv.org/abs/2210.16433). ICLR.
 - [SKZ24] [Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation](https://arxiv.org/pdf/2404.05970). SIGIR.
 - [KD24] [LTRR: Learning To Rank Retrievers for LLMs](https://arxiv.org/abs/2506.13743). SIGIR-2025-LiveRAG.
@@ -99,7 +97,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - [WWL25] [MultiRAG: A Knowledge-guided Framework for Mitigating Hallucination in Multi-source Retrieval Augmented Generation](https://arxiv.org/abs/2508.03553). ICDE.
 
 
-#### <a name='what'></a>[What to retrieval]()
+#### <a name='what'></a>[What to Retrieve]()
 - [NZC19] [Learning to Attend On Essential Terms: An Enhanced Retriever-Reader Model for Open-domain Question Answering](https://aclanthology.org/N19-1030/). NAACL.
 - [BMH22] [Improving Language Models by Retrieving from Trillions of Tokens (RETRO)](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf). ICML.
 - [XLI21] [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756). ICLR.
@@ -111,7 +109,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - [CZC25] [When and How to Augment Your Input: Question Routing Helps Balance the Accuracy and Efficiency of Large Language Models](https://aclanthology.org/2025.findings-naacl.200/). NAACL Findings.
 - [ZLH25] [Query Routing for Retrieval-Augmented Language Models](https://aclanthology.org/2025.findings-naacl.200/). arXiv.
 
-#### <a name='how'></a>[How to retrieval]()
+#### <a name='how'></a>[How to Retrieve]()
 - [PC98] [A Language Modeling Approach to Information Retrieval](https://doi.org/10.1145/290941.291008). SIGIR.
 - [FLP22] [From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective](https://arxiv.org/abs/2205.04733). SIGIR.
 - [MKT21] [Learning Passage Impacts for Inverted Indexes](https://arxiv.org/abs/2104.12016). SIGIR.
@@ -142,6 +140,19 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - [ZLZ24] [Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding](https://arxiv.org/abs/2404.14600). SIGIR.
 - [MTB21] [Rethinking Search: Making Domain Experts out of Dilettantes](https://arxiv.org/abs/2105.02274). SIGIR Forum.
 - [LJZ25] [From Matching to Generation: A Survey on Generative Information Retrieval](https://arxiv.org/abs/2404.14851). TOIS.
+
+#### <a name='com4r'></a>[Complementary Resources for Retrieva]()
+- Getting familiar with the evolution of model architectures in information retrieval (IR) and the representative retrieval methods.
+  - [ZMH25] [A Survey of Model Architectures in Information Retrieval](https://arxiv.org/abs/2502.14822). arXiv.
+
+- For the up-to-date overview on sparse retrieval
+  - [The tutorial at SIGIR-2025: Neural Lexical Search with Learned Sparse Retrieval](https://lsr-tutorial.github.io)
+
+- For a detailed overview on dense retrieval
+  - [ZLR24] [Dense Text Retrieval based on Pretrained Language Models: A Survey](https://arxiv.org/abs/2211.14876). arXiv.
+
+- ⭐ For a detailed overview on **Retrieval and Ranking with LLMs**
+  - Highlight: Generative LLMs like GPT, Gemini, and Llama are transforming Information Retrieval, enabling new and more effective approaches to document retrieval and ranking. The switch from the previous generation pre-trained language models backbones (e.g., BERT, T5) to the new generative LLMs backbones has required the field to adapt training processes; it also has provided unprecedented capabilities and opportunities, **stimulating research into zero-shot approaches**, reasoning approaches, reinforcement learning based training, and multilingual and multimodal applications. This tutorial at SIGIR-2025 ([site](https://ielab.io/tutorials/r2llms.html) and [slides](https://ielab.io/tutorials/r2llms.html)) provides a systematic overview of LLM-based retrievers and rankers, covering fundamental architectures, training paradigms, real-world deployment considerations, and open challenges and research directions. At the end of the tutorial, **a number of helpful tools for research on LLM-retrievers** are listed.
 
 ### <a name='o'></a>[Optimization]()
 
