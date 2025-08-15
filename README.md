@@ -1,4 +1,4 @@
-# RAG_Overview
+<img width="176" height="38" alt="image" src="https://github.com/user-attachments/assets/17064d51-d478-400c-ad8f-2491486c2d3a" /># RAG_Overview
 
 This repository aims to provide a comprehensive overview of Retrieval-augmented Generation (RAG) by curating highly related resources, including representative papers, workshops, tutorials, evaluation tracts and open-source projects.
 Given the rapid evolution of this field, we will continue to update the repository on a regular basis.
@@ -18,7 +18,9 @@ Given the rapid evolution of this field, we will continue to update the reposito
     -  <a href="#rfgo">Retriever (frozen), Generator (optimization)</a>
     -  <a href="#rogf">Retriever (optimization), Generator (frozen)</a>
     -  <a href="#jo">Joint Optimization: Retriever (optimization), Generator (optimization)</a>
-
+  - <a href="#eval">Evaluation</a>
+  - <a href="#persona">Personalization</a>
+  - <a href="#mulrag">Multimodal RAG</a>
 ## <a name="sp"></a>[Survey Papers]()
 
 - ⭐ Retrieval-Enhanced Machine Learning: Synthesis and Opportunities ([link](https://arxiv.org/abs/2407.12982), 2024)
@@ -155,18 +157,29 @@ Given the rapid evolution of this field, we will continue to update the reposito
     - ⭐ For a detailed overview on **Retrieval and Ranking with LLMs**
       - Highlight: Generative LLMs like GPT, Gemini, and Llama are transforming Information Retrieval, enabling new and more effective approaches to document retrieval and ranking. The switch from the previous generation pre-trained language models backbones (e.g., BERT, T5) to the new generative LLMs backbones has required the field to adapt training processes; it also has provided unprecedented capabilities and opportunities, **stimulating research into zero-shot approaches**, reasoning approaches, reinforcement learning based training, and multilingual and multimodal applications. This tutorial at SIGIR-2025 ([site](https://ielab.io/tutorials/r2llms.html) and [slides](https://ielab.io/tutorials/r2llms.html)) provides a systematic overview of LLM-based retrievers and rankers, covering fundamental architectures, training paradigms, real-world deployment considerations, and open challenges and research directions. At the end of the tutorial, **a number of helpful tools for research on LLM-retrievers** are listed.
 
-### <a name='o'></a>[Optimization]()
+  - ### <a name='o'></a>[Optimization]()
 
-#### <a name='rfgo'></a>[Retriever (frozen), Generator (optimization)]()
-- [IG21] [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://aclanthology.org/2021.eacl-main.74/). EACL.
-- [HCR23] [FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation](https://dl.acm.org/doi/10.1145/3539618.3591687). SIGIR.
-- [ZB24] [Stochastic RAG: End-to-End Retrieval-Augmented Generation through Expected Utility Maximization](https://dl.acm.org/doi/10.1145/3626772.3657923). SIGIR.
+  - #### <a name='rfgo'></a>[Retriever (frozen), Generator (optimization)]()
+    - [IG21] [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://aclanthology.org/2021.eacl-main.74/). EACL.
+    - [HCR23] [FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation](https://dl.acm.org/doi/10.1145/3539618.3591687). SIGIR.
+    - [ZB24] [Stochastic RAG: End-to-End Retrieval-Augmented Generation through Expected Utility Maximization](https://dl.acm.org/doi/10.1145/3626772.3657923). SIGIR.
 
-#### <a name='rogf'></a>[Retriever (optimization), Generator (frozen)]()
-- [SMY24] [REPLUG: Retrieval-Augmented Black-Box Language Models](https://aclanthology.org/2024.naacl-long.463.pdf). NAACL.
+  - #### <a name='rogf'></a>[Retriever (optimization), Generator (frozen)]()
+    - [SMY24] [REPLUG: Retrieval-Augmented Black-Box Language Models](https://aclanthology.org/2024.naacl-long.463.pdf). NAACL.
 
-#### <a name='jo'></a>[Joint Optimization: Retriever (optimization), Generator (optimization)]()
-- [LML25] [RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards](https://arxiv.org/abs/2410.13509). ICLR.
-- [XLZ24] [C-Pack: Packed Resources For General Chinese Embeddings](https://arxiv.org/abs/2309.07597). SIGIR.
-- [GLJ25] [SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback](https://arxiv.org/abs/2410.18141). ICLR.
+  - #### <a name='jo'></a>[Joint Optimization: Retriever (optimization), Generator (optimization)]()
+    - [LML25] [RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards](https://arxiv.org/abs/2410.13509). ICLR.
+    - [XLZ24] [C-Pack: Packed Resources For General Chinese Embeddings](https://arxiv.org/abs/2309.07597). SIGIR.
+    - [GLJ25] [SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback](https://arxiv.org/abs/2410.18141). ICLR.
 
+  - ### <a name='eval'></a>[Evaluation]()
+    - [YGZ24] [Evaluation of Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2405.07437). arXiv.
+    - [D24] [A Workbench for Autograding Retrieve/Generate Systems](https://arxiv.org/abs/2405.13177). SIGIR (best paper award).
+    - [SZ24] [Evaluating Retrieval Quality in Retrieval-Augmented Generation](https://arxiv.org/abs/2404.13781). SIGIR (best short paper award).
+    - [FKP24] [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://aclanthology.org/2024.naacl-long.20/). NAACL.
+
+  - ### <a name='persona'></a>[Personalization]()
+    - [LJX25] [A Survey of Personalization: From RAG to Agent](https://arxiv.org/pdf/2504.10147). arXiv.
+
+  - ### <a name='mulrag'></a>[Multimodal RAG]()
+    - [AZD25] [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](https://aclanthology.org/2025.findings-acl.861/). ACL.
