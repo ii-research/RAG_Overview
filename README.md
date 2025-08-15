@@ -44,6 +44,12 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - Synergizing RAG and Reasoning: A Systematic Review ([paper](https://arxiv.org/pdf/2504.15909), 2025)
   - Highlight: This survey paper presents **a systematic review of the collaborative interplay between RAG and reasoning**, clearly defining "reasoning" within the RAG context. It construct a comprehensive taxonomy encompassing multi-dimensional collaborative objectives, representative paradigms, and technical implementations, and analyze the bidirectional synergy methods.
 
+- Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely ([paper](https://arxiv.org/pdf/2409.14924v1), 2024)
+  - Highlight: This survey paper presents **a systematic review of RAG by novely classifying user queries into four levels based on the type of external data required and the task’s primary focus: explicit fact queries, implicit fact queries, interpretable rationale queries, and hidden rationale queries**.
+
+- Trustworthiness in Retrieval-Augmented Generation Systems: A Survey ([paper](https://arxiv.org/abs/2409.10102), 2024)
+  - Highlight: In this survey, the authors propose **a unified framework that assesses the trustworthiness of RAG systems across six key dimensions: factuality, robustness, fairness, transparency, accountability, and privacy**. Within this framework, the authors thoroughly review the existing literature on each dimension. Additionally, the authors create the evaluation benchmark regarding the six dimensions and conduct comprehensive evaluations for a variety of proprietary and open-source models. Finally, the authors identify the potential challenges for future research based on our investigation results. Through this work, the authors aim to lay a structured foundation for future investigations and provide practical insights for enhancing the trustworthiness of RAG systems in real-world applications.
+    
 ## <a name="ec"></a>[Evaluation Campaigns]()
  
 - **TREC RAG Track** ([site](https://trec-rag.github.io), 2024, 2025)
