@@ -142,18 +142,18 @@ Given the rapid evolution of this field, we will continue to update the reposito
       - [MTB21] [Rethinking Search: Making Domain Experts out of Dilettantes](https://arxiv.org/abs/2105.02274). SIGIR Forum.
       - [LJZ25] [From Matching to Generation: A Survey on Generative Information Retrieval](https://arxiv.org/abs/2404.14851). TOIS.
 
-#### <a name='com4r'></a>[Complementary Resources for Retrieva]()
-- Getting familiar with the evolution of model architectures in information retrieval (IR) and the representative retrieval methods.
-  - [ZMH25] [A Survey of Model Architectures in Information Retrieval](https://arxiv.org/abs/2502.14822). arXiv.
+  - #### <a name='com4r'></a>[Complementary Resources for Retrieva]()
+    - Getting familiar with the evolution of model architectures in information retrieval (IR) and the representative retrieval methods.
+      - [ZMH25] [A Survey of Model Architectures in Information Retrieval](https://arxiv.org/abs/2502.14822). arXiv.
 
-- For the up-to-date overview on sparse retrieval
-  - [The tutorial at SIGIR-2025: Neural Lexical Search with Learned Sparse Retrieval](https://lsr-tutorial.github.io)
+    - For the up-to-date overview on sparse retrieval
+      - [The tutorial at SIGIR-2025: Neural Lexical Search with Learned Sparse Retrieval](https://lsr-tutorial.github.io)
 
-- For a detailed overview on dense retrieval
-  - [ZLR24] [Dense Text Retrieval based on Pretrained Language Models: A Survey](https://arxiv.org/abs/2211.14876). arXiv.
+    - For a detailed overview on dense retrieval
+      - [ZLR24] [Dense Text Retrieval based on Pretrained Language Models: A Survey](https://arxiv.org/abs/2211.14876). arXiv.
 
-- ⭐ For a detailed overview on **Retrieval and Ranking with LLMs**
-  - Highlight: Generative LLMs like GPT, Gemini, and Llama are transforming Information Retrieval, enabling new and more effective approaches to document retrieval and ranking. The switch from the previous generation pre-trained language models backbones (e.g., BERT, T5) to the new generative LLMs backbones has required the field to adapt training processes; it also has provided unprecedented capabilities and opportunities, **stimulating research into zero-shot approaches**, reasoning approaches, reinforcement learning based training, and multilingual and multimodal applications. This tutorial at SIGIR-2025 ([site](https://ielab.io/tutorials/r2llms.html) and [slides](https://ielab.io/tutorials/r2llms.html)) provides a systematic overview of LLM-based retrievers and rankers, covering fundamental architectures, training paradigms, real-world deployment considerations, and open challenges and research directions. At the end of the tutorial, **a number of helpful tools for research on LLM-retrievers** are listed.
+    - ⭐ For a detailed overview on **Retrieval and Ranking with LLMs**
+      - Highlight: Generative LLMs like GPT, Gemini, and Llama are transforming Information Retrieval, enabling new and more effective approaches to document retrieval and ranking. The switch from the previous generation pre-trained language models backbones (e.g., BERT, T5) to the new generative LLMs backbones has required the field to adapt training processes; it also has provided unprecedented capabilities and opportunities, **stimulating research into zero-shot approaches**, reasoning approaches, reinforcement learning based training, and multilingual and multimodal applications. This tutorial at SIGIR-2025 ([site](https://ielab.io/tutorials/r2llms.html) and [slides](https://ielab.io/tutorials/r2llms.html)) provides a systematic overview of LLM-based retrievers and rankers, covering fundamental architectures, training paradigms, real-world deployment considerations, and open challenges and research directions. At the end of the tutorial, **a number of helpful tools for research on LLM-retrievers** are listed.
 
 ### <a name='o'></a>[Optimization]()
 
