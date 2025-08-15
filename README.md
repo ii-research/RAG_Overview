@@ -80,34 +80,34 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
   - ### <a name='ro'></a>[Retrieval Orchestration]()
 
-#### <a name='when'></a>[When to Retrieve]()
-- [CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
-- [JBC24] [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://aclanthology.org/2024.naacl-long.389/). NAACL.
-- [JXG23] [Active Retrieval-Augmented Generation](https://aclanthology.org/2023.emnlp-main.495/). EMNLP.
-- [STA24] [DRAGIN: Dynamic Retrieval-Augmented Generation Based on the Real-Time Information Needs of Large Language Models](https://aclanthology.org/2024.acl-long.702.pdf). ACL.
-- [AWW24] [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://openreview.net/pdf?id=hSyW5go0v8). ICLR.
-- [CQL25] [PAIRS: Parametric-Verified Adaptive Information Retrieval and Selection for Efficient RAG](https://arxiv.org/abs/2508.04057). arXiv.
-- [CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
+  - #### <a name='when'></a>[When to Retrieve]()
+    - [CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
+    - [JBC24] [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://aclanthology.org/2024.naacl-long.389/). NAACL.
+    - [JXG23] [Active Retrieval-Augmented Generation](https://aclanthology.org/2023.emnlp-main.495/). EMNLP.
+    - [STA24] [DRAGIN: Dynamic Retrieval-Augmented Generation Based on the Real-Time Information Needs of Large Language Models](https://aclanthology.org/2024.acl-long.702.pdf). ACL.
+    - [AWW24] [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://openreview.net/pdf?id=hSyW5go0v8). ICLR.
+    - [CQL25] [PAIRS: Parametric-Verified Adaptive Information Retrieval and Selection for Efficient RAG](https://arxiv.org/abs/2508.04057). arXiv.
+    - [CLL24] [Unified Active Retrieval for Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12534). EMNLP Findings.
 
-#### <a name='where'></a>[Where to Retrieve]()
-- [PYZ23] [Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models](https://arxiv.org/abs/2210.16433). ICLR.
-- [SKZ24] [Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation](https://arxiv.org/pdf/2404.05970). SIGIR.
-- [KD24] [LTRR: Learning To Rank Retrievers for LLMs](https://arxiv.org/abs/2506.13743). SIGIR-2025-LiveRAG.
-- [GKP25] [Efficient Federated Search for Retrieval-Augmented Generation](https://arxiv.org/abs/2502.19280). EuroMLSys.
-- [WWL25] [MultiRAG: A Knowledge-guided Framework for Mitigating Hallucination in Multi-source Retrieval Augmented Generation](https://arxiv.org/abs/2508.03553). ICDE.
+  - #### <a name='where'></a>[Where to Retrieve]()
+    - [PYZ23] [Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models](https://arxiv.org/abs/2210.16433). ICLR.
+    - [SKZ24] [Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation](https://arxiv.org/pdf/2404.05970). SIGIR.
+    - [KD24] [LTRR: Learning To Rank Retrievers for LLMs](https://arxiv.org/abs/2506.13743). SIGIR-2025-LiveRAG.
+    - [GKP25] [Efficient Federated Search for Retrieval-Augmented Generation](https://arxiv.org/abs/2502.19280). EuroMLSys.
+    - [WWL25] [MultiRAG: A Knowledge-guided Framework for Mitigating Hallucination in Multi-source Retrieval Augmented Generation](https://arxiv.org/abs/2508.03553). ICDE.
 
 
-#### <a name='what'></a>[What to Retrieve]()
-- [NZC19] [Learning to Attend On Essential Terms: An Enhanced Retriever-Reader Model for Open-domain Question Answering](https://aclanthology.org/N19-1030/). NAACL.
-- [BMH22] [Improving Language Models by Retrieving from Trillions of Tokens (RETRO)](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf). ICML.
-- [XLI21] [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756). ICLR.
-- [LLL22] [Query Expansion Using Contextual Clue Sampling with Language Models](https://arxiv.org/abs/2210.07093). arXiv.
-- [MHL21] [Generation-Augmented Retrieval for Open-Domain Question Answering](https://aclanthology.org/2021.acl-long.316/). ACL.
-- [GPT22] [Transform-Retrieve-Generate: Natural Language-Centric Outside-Knowledge Visual Question Answering](https://ieeexplore.ieee.org/document/9879942/). CVPR.
-- [PLY20] [Unsupervised Question Decomposition for Question Answering](https://aclanthology.org/2020.emnlp-main.713/). EMNLP.
-- [ZRY22] [Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts](https://arxiv.org/abs/2210.16865). EMNLP.
-- [CZC25] [When and How to Augment Your Input: Question Routing Helps Balance the Accuracy and Efficiency of Large Language Models](https://aclanthology.org/2025.findings-naacl.200/). NAACL Findings.
-- [ZLH25] [Query Routing for Retrieval-Augmented Language Models](https://aclanthology.org/2025.findings-naacl.200/). arXiv.
+  - #### <a name='what'></a>[What to Retrieve]()
+    - [NZC19] [Learning to Attend On Essential Terms: An Enhanced Retriever-Reader Model for Open-domain Question Answering](https://aclanthology.org/N19-1030/). NAACL.
+    - [BMH22] [Improving Language Models by Retrieving from Trillions of Tokens (RETRO)](https://proceedings.mlr.press/v162/borgeaud22a/borgeaud22a.pdf). ICML.
+    - [XLI21] [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval](https://arxiv.org/abs/2009.12756). ICLR.
+    - [LLL22] [Query Expansion Using Contextual Clue Sampling with Language Models](https://arxiv.org/abs/2210.07093). arXiv.
+    - [MHL21] [Generation-Augmented Retrieval for Open-Domain Question Answering](https://aclanthology.org/2021.acl-long.316/). ACL.
+    - [GPT22] [Transform-Retrieve-Generate: Natural Language-Centric Outside-Knowledge Visual Question Answering](https://ieeexplore.ieee.org/document/9879942/). CVPR.
+    - [PLY20] [Unsupervised Question Decomposition for Question Answering](https://aclanthology.org/2020.emnlp-main.713/). EMNLP.
+    - [ZRY22] [Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts](https://arxiv.org/abs/2210.16865). EMNLP.
+    - [CZC25] [When and How to Augment Your Input: Question Routing Helps Balance the Accuracy and Efficiency of Large Language Models](https://aclanthology.org/2025.findings-naacl.200/). NAACL Findings.
+    - [ZLH25] [Query Routing for Retrieval-Augmented Language Models](https://aclanthology.org/2025.findings-naacl.200/). arXiv.
 
   - #### <a name='how'></a>[How to Retrieve]()
     - <a name='sparse_r'></a>Sparse Retrieval  
