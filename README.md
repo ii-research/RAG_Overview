@@ -109,37 +109,38 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - [CZC25] [When and How to Augment Your Input: Question Routing Helps Balance the Accuracy and Efficiency of Large Language Models](https://aclanthology.org/2025.findings-naacl.200/). NAACL Findings.
 - [ZLH25] [Query Routing for Retrieval-Augmented Language Models](https://aclanthology.org/2025.findings-naacl.200/). arXiv.
 
-#### <a name='how'></a>[How to Retrieve]()
-- [PC98] [A Language Modeling Approach to Information Retrieval](https://doi.org/10.1145/290941.291008). SIGIR.
-- [FLP22] [From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective](https://arxiv.org/abs/2205.04733). SIGIR.
-- [MKT21] [Learning Passage Impacts for Inverted Indexes](https://arxiv.org/abs/2104.12016). SIGIR.
-- [GDC21] [COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List](https://arxiv.org/abs/2104.07186). NAACL.
-- [WC06] [LDA-Based Document Models for Ad-Hoc Retrieval](https://doi.org/10.1145/1148170.1148204). SIGIR.
-- [AE06] [Latent Semantic Indexing (LSI) Fails for TREC Collections](https://dl.acm.org/doi/abs/10.1145/1964897.1964900). SIGKDD Explorations Newsletter.
-- [LM21] [A Few Brief Notes on DeepImpact, COIL, and a Conceptual Framework for Information Retrieval Techniques](https://arxiv.org/abs/2106.14807). arXiv.
-- [KOM20] [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550/). EMNLP.
-- [RKH21] [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf). ICML.
-- [LLX22] [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086). ICML.
-- [LLS23] [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). ICML.
-- [XSA25] [BLIP-3: A Family of Open Large Multimodal Models](https://arxiv.org/pdf/2408.08872v3). arXiv.
-- [KZ20] [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/10.1145/3397271.3401075). SIGIR.
-- [MT24] [A Reproducibility Study of PLAID](https://dl.acm.org/doi/10.1145/3626772.3657856). SIGIR.
-- [DHJ24] [MUVERA: Multi-Vector Retrieval via Fixed Dimensional Encoding](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b71cfefae46909178603b5bc6c11d3ae-Abstract-Conference.html). NeurIPS.
-- [XXL21] [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://openreview.net/forum?id=zeFrfgyZln). ICLR.
-- [KZ20] [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/10.1145/3397271.3401075). SIGIR.
-- [MTO21] [On Single and Multiple Representations in Dense Passage Retrieval](https://dl.acm.org/doi/10.1145/3397271.3401075). IIR.
-- [NC20] [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085). arXiv.
-- [SZ25] [Learning to Rank for Multiple Retrieval-Augmented Models through Iterative Utility Maximization](https://dl.acm.org/doi/10.1145/3731120.3744584). ICTIR.
-- [SZ24] [Towards a Search Engine for Machines: Unified Ranking for Multiple Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/10.1145/3626772.3657733). SIGIR.
-- [SYM23] [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/pdf/2304.09542). EMNLP.
-- [SYX25] [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2407.12883). ICLR.
-- [YYR25] [Rank-K: Test-Time Reasoning for Listwise Reranking](https://arxiv.org/abs/2505.14432). arXiv
-- [ZMK25] [Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning](https://arxiv.org/abs/2503.06034). arXiv
-- [SPS25] [RankLLM: A Python Package for Reranking with LLMs](https://arxiv.org/abs/2505.19284). SIGIR.
-- [ZZK24] [A Setwise Approach for Effective and Highly Efficient Zero‑shot Ranking with Large Language Models](https://arxiv.org/abs/2310.09497). SIGIR.
-- [ZLZ24] [Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding](https://arxiv.org/abs/2404.14600). SIGIR.
-- [MTB21] [Rethinking Search: Making Domain Experts out of Dilettantes](https://arxiv.org/abs/2105.02274). SIGIR Forum.
-- [LJZ25] [From Matching to Generation: A Survey on Generative Information Retrieval](https://arxiv.org/abs/2404.14851). TOIS.
+  - #### <a name='how'></a>[How to Retrieve]()
+    - <a name='sparse_r'></a>Sparse Retrieval  
+      - [FLP22] [From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective](https://arxiv.org/abs/2205.04733). SIGIR.
+      - [MKT21] [Learning Passage Impacts for Inverted Indexes](https://arxiv.org/abs/2104.12016). SIGIR.
+      - [GDC21] [COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List](https://arxiv.org/abs/2104.07186). NAACL.
+      - [LM21] [A Few Brief Notes on DeepImpact, COIL, and a Conceptual Framework for Information Retrieval Techniques](https://arxiv.org/abs/2106.14807). arXiv.
+    - <a name='dense_r'></a>Dense Retrieval  
+      - [KOM20] [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550/). EMNLP.
+      - [RKH21] [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf). ICML.
+      - [LLX22] [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086). ICML.
+      - [LLS23] [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597). ICML.
+      - [XSA25] [BLIP-3: A Family of Open Large Multimodal Models](https://arxiv.org/pdf/2408.08872v3). arXiv.
+      - [KZ20] [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/10.1145/3397271.3401075). SIGIR.
+      - [MT24] [A Reproducibility Study of PLAID](https://dl.acm.org/doi/10.1145/3626772.3657856). SIGIR.
+      - [DHJ24] [MUVERA: Multi-Vector Retrieval via Fixed Dimensional Encoding](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b71cfefae46909178603b5bc6c11d3ae-Abstract-Conference.html). NeurIPS.
+      - [XXL21] [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://openreview.net/forum?id=zeFrfgyZln). ICLR.
+      - [KZ20] [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://dl.acm.org/doi/10.1145/3397271.3401075). SIGIR.
+      - [MTO21] [On Single and Multiple Representations in Dense Passage Retrieval](https://dl.acm.org/doi/10.1145/3397271.3401075). IIR.
+    - <a name='rerank'></a>Re-ranking, especially with LLMs
+      - [NC20] [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085). arXiv.
+      - [SZ25] [Learning to Rank for Multiple Retrieval-Augmented Models through Iterative Utility Maximization](https://dl.acm.org/doi/10.1145/3731120.3744584). ICTIR.
+      - [SZ24] [Towards a Search Engine for Machines: Unified Ranking for Multiple Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/10.1145/3626772.3657733). SIGIR.
+      - [SYM23] [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents](https://arxiv.org/pdf/2304.09542). EMNLP.
+      - [SYX25] [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2407.12883). ICLR.
+      - [YYR25] [Rank-K: Test-Time Reasoning for Listwise Reranking](https://arxiv.org/abs/2505.14432). arXiv
+      - [ZMK25] [Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning](https://arxiv.org/abs/2503.06034). arXiv
+      - [SPS25] [RankLLM: A Python Package for Reranking with LLMs](https://arxiv.org/abs/2505.19284). SIGIR.
+      - [ZZK24] [A Setwise Approach for Effective and Highly Efficient Zero‑shot Ranking with Large Language Models](https://arxiv.org/abs/2310.09497). SIGIR.
+    - <a name='gir'></a>Generative Retrieval
+      - [ZLZ24] [Planning Ahead in Generative Retrieval: Guiding Autoregressive Generation through Simultaneous Decoding](https://arxiv.org/abs/2404.14600). SIGIR.
+      - [MTB21] [Rethinking Search: Making Domain Experts out of Dilettantes](https://arxiv.org/abs/2105.02274). SIGIR Forum.
+      - [LJZ25] [From Matching to Generation: A Survey on Generative Information Retrieval](https://arxiv.org/abs/2404.14851). TOIS.
 
 #### <a name='com4r'></a>[Complementary Resources for Retrieva]()
 - Getting familiar with the evolution of model architectures in information retrieval (IR) and the representative retrieval methods.
