@@ -142,7 +142,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
       - [MTB21] [Rethinking Search: Making Domain Experts out of Dilettantes](https://arxiv.org/abs/2105.02274). SIGIR Forum.
       - [LJZ25] [From Matching to Generation: A Survey on Generative Information Retrieval](https://arxiv.org/abs/2404.14851). TOIS.
 
-  - #### <a name='com4r'></a>[Complementary Resources for Retrieva]()
+  - #### <a name='com4r'></a>[Complementary Resources for Retrieval]()
     - Getting familiar with the evolution of model architectures in information retrieval (IR) and the representative retrieval methods.
       - [ZMH25] [A Survey of Model Architectures in Information Retrieval](https://arxiv.org/abs/2502.14822). arXiv.
 
