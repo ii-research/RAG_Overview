@@ -51,6 +51,9 @@ Given the rapid evolution of this field, we will continue to update the reposito
 - Trustworthiness in Retrieval-Augmented Generation Systems: A Survey ([paper](https://arxiv.org/abs/2409.10102), 2024)
   - Highlight: In this survey, the authors propose **a unified framework that assesses the trustworthiness of RAG systems across six key dimensions: factuality, robustness, fairness, transparency, accountability, and privacy**. Within this framework, the authors thoroughly review the existing literature on each dimension. Additionally, the authors create the evaluation benchmark regarding the six dimensions and conduct comprehensive evaluations for a variety of proprietary and open-source models. Finally, the authors identify the potential challenges for future research based on our investigation results. Through this work, the authors aim to lay a structured foundation for future investigations and provide practical insights for enhancing the trustworthiness of RAG systems in real-world applications.
     
+- A Retrieval-augmented Complex Story Generation Framework with A Forest of Evidence ([paper](https://arxiv.org/pdf/2310.05388)
+  - Highlight: This paper presents GROVE, a retrieval-augmented story generation framework designed to help large language models (LLMs) generate complex and credible narratives. The framework consists of three stages: (1) building a retrieval repository of human-written stories based on target control conditions (e.g., plot, mood, genre, subject); (2) constructing an evidence forest through an iterative “asking-why” prompting process to uncover missing or ambiguous background details; and (3) story rewriting by incorporating selected evidence chains to enrich and refine the story. Experimental results show that GROVE outperforms baselines such as ICL, CoT, and Story-S on both human and automatic evaluations, especially in plot complexity and creativity. The approach demonstrates generalizability even on smaller models like Alpaca-Plus-7B, and includes novel metrics and a detailed ablation study to support its findings.
+    
 ## <a name="ec"></a>[Evaluation Campaigns]()
  
 - **TREC RAG Track** ([site](https://trec-rag.github.io), 2024, 2025)
@@ -84,7 +87,7 @@ Given the rapid evolution of this field, we will continue to update the reposito
 
 - **BREV-RAG (Beyond Relevance-based EValuation of RAG systems)**
   - Highlight: The workshop of [BREV-RAG@SIGIR-AP 2025](http://sakailab.com/brev-rag/) (**calling for papers now**) focuses on the viewpoint of evaluation, which will be held in December, 2025. 
- 
+
 ## <a name="ps"></a>[Papers]()
 
   - ### <a name='ro'></a>[Retrieval Orchestration]()
